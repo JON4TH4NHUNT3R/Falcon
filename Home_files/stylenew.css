@@ -9,6 +9,10 @@
 
 /* Responsive Design */
 
+.testimonial_cover_heading {
+	display: inline;
+}
+
 .botom_futer {
 	display: inline-block;
 	width: 100%;
