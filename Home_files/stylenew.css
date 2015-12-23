@@ -15,6 +15,10 @@
 	width: 100%;
 }
 
+.ss {
+	display:inline-table;
+}
+
 .testimonial_cover_heading {
 	display: inline;
 }
@@ -86,6 +90,15 @@ img {
         width: 100%;
     }
     .section_interna_con{margin-right:15px;float:right}
+}
+
+@media only screen and (max-width: 850px) {
+.banner-heading1 {
+    	display: none;
+    }
+    .banner-varanasi {
+    	display:none;
+    }
 }
 
 @media screen and (max-width: 500px) {
